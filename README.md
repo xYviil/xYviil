@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👾 xYviil
 
-<!--
-**xYviil/xYviil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil!
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+- 🎓 Estudante de [tecnologia/programação].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- 💻 **Linguagens:** [Java]
+- 🔧 **Ferramentas:** [IntelliJ, Git, etc.]
+
+---
+
+### 🌐 Conecte-se Comigo
+- 📧 **Email:** viniciusmeurer2012@gmail.com
+- 📷 **Instagram:** [@viniciusmpetry(#)
+- 🕊 **Twitter:** [@yrtepmsuiciniv(#)
+
+---
+
+### 📊 Estatísticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyviil&layout=compact&theme=onedark)](#)
