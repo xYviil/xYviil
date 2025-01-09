@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil!
 
 ### 🚀 Sobre Mim
-- 🎓 Estudante de [tecnologia/programação].
+- 🎓 Estudante de [programação].
 
 ---
 
