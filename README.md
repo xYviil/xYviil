@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil!
 ### 🌐 Conecte-se Comigo
 - 📧 **Email:** viniciusmeurer2012@gmail.com
 - 📷 **Instagram:** [@viniciusmpetry(#)
-- 🕊 **Twitter:** [@yrtepmsuiciniv(#)
+- 🕊 **X:** [@yrtepmsuiciniv(#)
 
 ---
 
