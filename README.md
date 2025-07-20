@@ -2,10 +2,6 @@
 
 Bem-vindo ao meu perfil!
 
-### 🚀 Sobre Mim
-- 🎓 Estudante de [programação].
-
----
 
 ### 🛠️ Tecnologias & Ferramentas
 - 💻 **Linguagens:** [Java]
