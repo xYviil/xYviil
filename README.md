@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil!
 
 
 ### 🛠️ Tecnologias & Ferramentas
-- 💻 **Linguagens:** [Java]
-- 🔧 **Ferramentas:** [IntelliJ, Git, etc.]
+- 💻 **Linguagens:** [Java, Javascript]
+- 🔧 **Ferramentas:** [IntelliJ, Git, Cypress, Postman etc.]
 
 ---
 
